@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/uc-abh/workflow_javascript_eslint/issues"
   },
-  "homepage": "https://github.com/uc-abh/workflow_javascript_eslint#readme"
+  "homepage": "https://github.com/uc-abh/workflow_javascript_eslint#readme",
+  "devDependencies": {
+    "eslint": "^8.38.0",
+    "eslint-plugin-react": "^7.32.2"
+  }
 }
