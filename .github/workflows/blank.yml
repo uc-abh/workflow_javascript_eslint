@@ -14,5 +14,5 @@ jobs:
       - name: Install dependencies
         run: npm install
       - name: Check console errors
-        run: npx eslint --quiet app.js
+        run: npx eslint --quiet abhipole.js
 
